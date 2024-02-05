@@ -1,1 +1,1 @@
-This is a TUI version for ultraworking work cycles google sheets
+TUI version of work cycles google sheets
